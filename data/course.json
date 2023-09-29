@@ -1,0 +1,46 @@
+{
+  "term": "January IAP",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Pharmacology and Toxicology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "legacy_uid": "57fbe269-40ae-55f0-1bed-7d67b822aede",
+  "instructors": {
+    "content": [
+      "05526eda-9c43-d188-8b20-6866b356da04"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9c961b77-9141-fd64-056e-8cf7eb69cf1d",
+    "website": "9-98-neuropharmacology-january-iap-2009"
+  },
+  "course_title": "Neuropharmacology",
+  "course_description": "The neuropharmacology course will discuss the drug-induced changes in functioning of the nervous system. The specific focus of this course will be to provide a description of the cellular and molecular actions of drugs on synaptic transmission. This course will also refer to specific diseases of the nervous system and their treatment in addition to giving an overview of the techniques used for the study of neuropharmacology.\n\nThis course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.98",
+  "course_image_thumbnail": {
+    "content": "6935f5f5-eee0-ed4c-155a-18b9c25310db",
+    "website": "9-98-neuropharmacology-january-iap-2009"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "65926fb3-c2c7-4a1c-a6bb-2bf17b0df32e",
+  "site_short_id": "9.98-january-iap-2009",
+  "title": "Course Metadata"
+}
